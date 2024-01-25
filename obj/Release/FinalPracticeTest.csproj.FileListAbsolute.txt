@@ -1,0 +1,8 @@
+C:\devl\FinalPracticeTest\bin\Release\FinalPracticeTest.exe.config
+C:\devl\FinalPracticeTest\bin\Release\FinalPracticeTest.exe
+C:\devl\FinalPracticeTest\bin\Release\FinalPracticeTest.pdb
+C:\devl\FinalPracticeTest\obj\Release\FinalPracticeTest.csproj.AssemblyReference.cache
+C:\devl\FinalPracticeTest\obj\Release\FinalPracticeTest.csproj.SuggestedBindingRedirects.cache
+C:\devl\FinalPracticeTest\obj\Release\FinalPracticeTest.csproj.CoreCompileInputs.cache
+C:\devl\FinalPracticeTest\obj\Release\FinalPracticeTest.exe
+C:\devl\FinalPracticeTest\obj\Release\FinalPracticeTest.pdb

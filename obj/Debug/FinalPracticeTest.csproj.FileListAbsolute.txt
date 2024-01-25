@@ -1,0 +1,16 @@
+C:\devl\FinalPracticeTest\bin\Debug\FinalPracticeTest.exe.config
+C:\devl\FinalPracticeTest\bin\Debug\FinalPracticeTest.exe
+C:\devl\FinalPracticeTest\bin\Debug\FinalPracticeTest.pdb
+C:\devl\FinalPracticeTest\obj\Debug\FinalPracticeTest.csproj.AssemblyReference.cache
+C:\devl\FinalPracticeTest\obj\Debug\FinalPracticeTest.csproj.SuggestedBindingRedirects.cache
+C:\devl\FinalPracticeTest\obj\Debug\FinalPracticeTest.csproj.CoreCompileInputs.cache
+C:\devl\FinalPracticeTest\obj\Debug\FinalPracticeTest.exe
+C:\devl\FinalPracticeTest\obj\Debug\FinalPracticeTest.pdb
+C:\devl\FinalPracticeTest_FAILFAILAFAIL\bin\Debug\FinalPracticeTest.exe.config
+C:\devl\FinalPracticeTest_FAILFAILAFAIL\bin\Debug\FinalPracticeTest.exe
+C:\devl\FinalPracticeTest_FAILFAILAFAIL\bin\Debug\FinalPracticeTest.pdb
+C:\devl\FinalPracticeTest_FAILFAILAFAIL\obj\Debug\FinalPracticeTest.csproj.AssemblyReference.cache
+C:\devl\FinalPracticeTest_FAILFAILAFAIL\obj\Debug\FinalPracticeTest.csproj.SuggestedBindingRedirects.cache
+C:\devl\FinalPracticeTest_FAILFAILAFAIL\obj\Debug\FinalPracticeTest.csproj.CoreCompileInputs.cache
+C:\devl\FinalPracticeTest_FAILFAILAFAIL\obj\Debug\FinalPracticeTest.exe
+C:\devl\FinalPracticeTest_FAILFAILAFAIL\obj\Debug\FinalPracticeTest.pdb

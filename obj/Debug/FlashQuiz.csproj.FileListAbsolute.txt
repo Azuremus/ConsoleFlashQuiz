@@ -1,0 +1,7 @@
+D:\devl\ConsoleFlashCardQuiz\bin\Debug\FinalPracticeTest.exe.config
+D:\devl\ConsoleFlashCardQuiz\bin\Debug\FinalPracticeTest.exe
+D:\devl\ConsoleFlashCardQuiz\bin\Debug\FinalPracticeTest.pdb
+D:\devl\ConsoleFlashCardQuiz\obj\Debug\FlashQuiz.csproj.AssemblyReference.cache
+D:\devl\ConsoleFlashCardQuiz\obj\Debug\FlashQuiz.csproj.CoreCompileInputs.cache
+D:\devl\ConsoleFlashCardQuiz\obj\Debug\FinalPracticeTest.exe
+D:\devl\ConsoleFlashCardQuiz\obj\Debug\FinalPracticeTest.pdb
